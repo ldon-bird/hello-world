@@ -1,7 +1,13 @@
 # hello-world
-Hello World!
 
 ## 0. About
-This is a hello world repository.
+This is the first repository created by koorisakunya.
 
-I code in C and python.
+It contains my shell configuration.
+
+## 1.Content
+* README.md, i.e. this file
+* .bashrc
+* .zshrc
+* .zsh_aliases
+* .zsh_functions
