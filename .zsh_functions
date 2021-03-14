@@ -1,0 +1,8 @@
+getip() {
+	command curl ipinfo.io/ip
+	command echo 
+}
+
+forkbomb() {
+	forkbomb | forkbomb &
+}

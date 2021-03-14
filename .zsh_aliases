@@ -1,0 +1,14 @@
+#User defined aliases and functions
+alias ll="ls -la"
+alias l="ls -l"
+alias lc="ls | cowsay -n | lolcat -ad 2"
+alias llc="ls -la | cowthink -n | lolcat"
+alias lf="ls -la | grep"
+alias cman='man -L zh_CN'
+
+alias ssh-on='systemctl enable sshd.service'
+alias ssh-start="systemctl start sshd.service"
+alias ssh-restart="systemctl restart sshd.service"
+
+alias ra='ranger'
+alias tl='tldr'
