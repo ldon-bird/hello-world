@@ -12,3 +12,5 @@ alias ssh-restart="systemctl restart sshd.service"
 
 alias ra='ranger'
 alias tl='tldr'
+alias t='todo.sh'
+alias del='trash'

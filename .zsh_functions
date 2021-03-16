@@ -6,3 +6,20 @@ getip() {
 forkbomb() {
 	forkbomb | forkbomb &
 }
+
+SRC=$1
+DES=$2
+
+car() {
+  if [[ -z "$2" ]]; then
+    echo No output filename given. Writing to "$1".o ...
+    command gcc "$1" -o "$1".o
+    ./"$1".o
+  else
+    gcc -o "$2" "$1"
+    ./"$2"
+  fi
+}
+
+
+
