@@ -1,7 +1,7 @@
 # hello-world
 
 ## 0. About
-This is the first repository created by koorisakunya.
+This is the first repository created by ldon-bird.
 
 It contains my shell configuration.
 
