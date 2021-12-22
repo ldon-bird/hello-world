@@ -1,9 +1,8 @@
-# hello-world
+# hello-world!
 
 ## 0. About
 This is the first repository created by ldon-bird.
 
-It contains my shell configuration.
 
 ## 1.Content
 * README.md, i.e. this file
@@ -11,3 +10,6 @@ It contains my shell configuration.
 * .zshrc
 * .zsh_aliases
 * .zsh_functions
+
+
+## test, on 2021-12-23
